@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\bin\Debug\net5.0\TaxJarApi.deps.json
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\bin\Debug\net5.0\TaxJarApi.dll
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\bin\Debug\net5.0\ref\TaxJarApi.dll
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\bin\Debug\net5.0\TaxJarApi.pdb
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.dll
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\ref\TaxJarApi.dll
+C:\Users\Administrator\source\repos\IMC_Code_Challenge\TaxJarApi\obj\Debug\net5.0\TaxJarApi.pdb
